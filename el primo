@@ -1,0 +1,7 @@
+a =5
+b= 8
+def fonction(a,b):
+  a +=b
+  return b
+  
+fontion()
